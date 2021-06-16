@@ -1,0 +1,10 @@
+日志匹配规则调试
+https://grokdebug.herokuapp.com/
+ELK大全
+https://www.bilibili.com/video/BV1of4y1R7ST?p=27&spm_id_from=pageDriver
+ELK官网
+https://www.elastic.co/guide/en/beats/filebeat/current/kafka-output.html
+kafka官网
+https://kafka.apache.org/downloads
+zookeeper官网
+https://zookeeper.apache.org/releases.html
